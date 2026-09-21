@@ -15,10 +15,10 @@ The research explores the empirical observation of a **Peak-Distance Scaling Law
 
 ## 📈 Key Findings & Visualizations
 ### Collatz Landscape
-![Collatz Landscape](./collatz_landscape.png)
+![Landscape](./results/collatz_landscape.png)
 
 ### Peak-Distance Scaling
-![Peak Distance](./collatz_peak_distances.png)
+![Distance](./results/collatz_peak_distances.png)
 
 *(Note: Detailed plots and analytical charts are located in the `/results` directory.)*
 
