@@ -14,9 +14,11 @@ The research explores the empirical observation of a **Peak-Distance Scaling Law
   - `Matplotlib`: For visualizing the landscape of Collatz trajectories and scaling plots.
 
 ## 📈 Key Findings & Visualizations
-- **Scaling Law:** The data exhibits a strong correlation ($R^2 \approx 0.999$) between the log-transformed peak values and the trajectory length.
-- **Trajectory Landscape:** Visualization of the "peaks and valleys" of the Collatz function, showcasing the chaotic yet bounded nature of the orbits.
-- **Statistical Distribution:** Analysis of the distribution of residues and their impact on trajectory growth.
+### Collatz Landscape
+![Collatz Landscape](./collatz_landscape.png)
+
+### Peak-Distance Scaling
+![Peak Distance](./collatz_peak_distances.png)
 
 *(Note: Detailed plots and analytical charts are located in the `/results` directory.)*
 
