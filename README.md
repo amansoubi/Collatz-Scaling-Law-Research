@@ -13,6 +13,9 @@ The research explores the empirical observation of a **Peak-Distance Scaling Law
 
 ## 📈 Key Findings & Visualizations
 
+- **Scaling Law:** The data exhibits a strong correlation ($R^2 \approx 0.999$) between the log-transformed peak values and the trajectory length.
+- **Trajectory Landscape:** Visualization of the "peaks and valleys" of the Collatz function.
+
 ### Collatz Landscape
 ![collatz landscape](./collatz_landscape.png)
 
