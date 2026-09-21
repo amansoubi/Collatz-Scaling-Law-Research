@@ -14,11 +14,12 @@ The research explores the empirical observation of a **Peak-Distance Scaling Law
   - `Matplotlib`: For visualizing the landscape of Collatz trajectories and scaling plots.
 
 ## 📈 Key Findings & Visualizations
+
 ### Collatz Landscape
-![Landscape](./results/collatz_landscape.png)
+![Collatz Landscape](./results/collatz_landscape.png)
 
 ### Peak-Distance Scaling
-![Distance](./results/collatz_peak_distances.png)
+![Peak Distance](./results/collatz_peak_distances.png)
 
 *(Note: Detailed plots and analytical charts are located in the `/results` directory.)*
 
